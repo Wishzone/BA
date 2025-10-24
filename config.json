@@ -1,0 +1,12 @@
+{
+  "symbol": "BTC/USDT",
+  "start": "2010-08-01 00:00:00",
+  "interval": 3600,
+  "fee": 0.001,
+  "proxy": "socks5h://127.0.0.1:7890",
+  "apiKey": "YourApiKeyHere",
+  "secret": "YourSecretKeyHere",
+  "add_btc_market_cap": false,
+  "method": "MB",
+  "TRate": 0.95
+}
