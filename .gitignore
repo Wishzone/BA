@@ -27,6 +27,7 @@ Thumbs.db
 logs/
 *.log
 /data/*.csv
+*.csv
 *.html
 
 # Models
